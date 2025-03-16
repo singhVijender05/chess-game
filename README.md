@@ -25,58 +25,69 @@ Open your terminal and run:
 ```sh
 git clone https://github.com/singhVijender05/chess-game.git
 cd chess-game
+```
 
-
-
-2️⃣ Install dependencies
-Backend
-sh
-Copy
-Edit
+### 2️⃣ Install dependencies  
+#### Backend  
+```sh
 cd server
 npm install
-Frontend
-sh
-Copy
-Edit
+```
+#### Frontend  
+```sh
 cd ../client
 npm install
-3️⃣ Start the application
-Backend
-sh
-Copy
-Edit
+```
+
+### 3️⃣ Start the application  
+#### Backend  
+```sh
 cd server
 npm start
-Frontend
-sh
-Copy
-Edit
+```
+#### Frontend  
+```sh
 cd ../client
 npm start
-🎮 How to Play?
-Open the app and log in/sign up
-Create a new game or join an existing game
-Play against a friend or random opponent in real-time
-The game automatically declares the winner if time expires
-Reconnect and continue if disconnected
-🤝 Contributing
-Want to contribute? Follow these steps:
+```
 
-Fork the repository
-Create a new branch
-sh
-Copy
-Edit
-git checkout -b feature-branch
-Commit your changes
-sh
-Copy
-Edit
-git commit -m "Add new feature"
-Push to GitHub
-sh
-Copy
-Edit
-git push origin feature-branch
-Submit a pull request 🚀
+---
+
+## 🎮 How to Play?  
+1. Open the app and **log in/sign up**  
+2. **Create a new game** or **join an existing game**  
+3. Play against a friend or random opponent in **real-time**  
+4. The game **automatically declares the winner** if time expires  
+5. **Reconnect and continue** if disconnected  
+
+---
+
+## 🤝 Contributing  
+Want to contribute? Follow these steps:  
+
+1. **Fork** the repository  
+2. **Create a new branch**  
+   ```sh
+   git checkout -b feature-branch
+   ```
+3. **Commit your changes**  
+   ```sh
+   git commit -m "Add new feature"
+   ```
+4. **Push to GitHub**  
+   ```sh
+   git push origin feature-branch
+   ```
+5. **Submit a pull request** 🚀  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+---
+
+## 🌟 Show Your Support!  
+If you like this project, **⭐ star the repo** and feel free to share your feedback!  
+
+🔗 **[View Source Code](https://github.com/singhVijender05/chess-game)**  
